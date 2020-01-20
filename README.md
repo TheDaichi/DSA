@@ -1,2 +1,2 @@
-# Competitive-programming
-Repository for storing implementations of various algorithms &amp; competitive programming problems in C++
+# DSA-competitiveProgramming
+Repository for storing implementations of various data structures algorithms &amp; competitive programming problems in C++
